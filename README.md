@@ -1,6 +1,6 @@
-* contao redirect
+# contao redirect
 
-** Weiterleitungs-Module für SSL, Benutzersprache und Anmeldung
+## Weiterleitungs-Module für SSL, Benutzersprache und Anmeldung
 
 Diese Erweiterung stellt fünf verschiedene Frontend Module zur Weiterleitung zur Verfügung:
 
@@ -10,11 +10,11 @@ Weiterleitung wenn angemeldet: Leiten den Benutzer weiter wenn er angemeldet ist
 Weiterleitung von Browsern und Browserversionen: Erlaubt z.B. die Umleitung eines iPhone- oder Internet-Explorer-6-Besuchers auf eine bestimmte Seite (kann durch Cookies auch nur einmal geschehen)
 Weiterleitung von Betriebssystemen: Erlaubt die interne und externe Weiterleitung von Betreibssystemen (z.B. Windows, iOS, Android, ...)
 
-*** WICHTIGE ÄNDERUNGEN BEIM WECHSEL AUF VERSION 1.5:
+### WICHTIGE ÄNDERUNGEN BEIM WECHSEL AUF VERSION 1.5:
 
 Die Abhängigkeit von changelanguage wurde entfernt. Die Funktion zur Weiterleitung auf die Benutzersprache wurde in changelanguage integriert!
 
-*** WICHTIGE ÄNDERUNGEN BEIM WECHSEL AUF VERSION 1.4:
+### WICHTIGE ÄNDERUNGEN BEIM WECHSEL AUF VERSION 1.4:
 
 Läuft nur noch mit Contao 2.10.x!
 Die abhängige Erweiterung browserdetection kann gelöscht werden.
